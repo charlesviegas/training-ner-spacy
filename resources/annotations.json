@@ -1,0 +1,1981 @@
+{
+  "classes": [
+    "CORTE",
+    "QUANTIDADE"
+  ],
+  "annotations": [
+    [
+      "001 CX- ALCATRA SUINA S/O. PALMALI CX.10KG.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "CORTE"
+          ],
+          [
+            35,
+            42,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- BACON EXTRA PALETA SULITA CX.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            13,
+            "CORTE"
+          ],
+          [
+            34,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- MEIO ASA ENV. TEMP. FRANGAO CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            16,
+            "CORTE"
+          ],
+          [
+            36,
+            43,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- RECORTE COST. SUINA CONG. SADIA CX.12KG.",
+      {
+        "entities": [
+          [
+            8,
+            27,
+            "CORTE"
+          ],
+          [
+            40,
+            47,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- SOBREP. S/O. PALMALI CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            15,
+            "CORTE"
+          ],
+          [
+            29,
+            36,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- TORRESMO PRE-FRITO CHAPARRAL CX.12X500GR",
+      {
+        "entities": [
+          [
+            8,
+            26,
+            "CORTE"
+          ],
+          [
+            37,
+            48,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 CX- TOUCINHO LOMBAR S/P. ALEGRA CX.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            23,
+            "CORTE"
+          ],
+          [
+            36,
+            43,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 PC- BACON FATIADO SABOR MINEIRO FD.10X2KG.",
+      {
+        "entities": [
+          [
+            8,
+            13,
+            "CORTE"
+          ],
+          [
+            36,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 PC- FILEZ. SASSAMI PCTE. LEVO CX.18X1KG.",
+      {
+        "entities": [
+          [
+            8,
+            22,
+            "CORTE"
+          ],
+          [
+            34,
+            43,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 SC- BACON EXTRA PALETA SULITA CX.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            13,
+            "CORTE"
+          ],
+          [
+            34,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "001 SC- BARRIGA TIRAS C/P. GRANCORTE CX.8X2KG.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "CORTE"
+          ],
+          [
+            37,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- C. BOV. MOIDA BOI BRASIL CX.20X1KG.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "CORTE"
+          ],
+          [
+            33,
+            42,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- CORACAO FGO. PCTE. LEVO CX.18X1KG.",
+      {
+        "entities": [
+          [
+            8,
+            20,
+            "CORTE"
+          ],
+          [
+            32,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- COXINHA ASA INTERF. DIPLOMATA CX.18KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            38,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- ESPINHACO CONG. PALMALI CX.7X3KG.",
+      {
+        "entities": [
+          [
+            8,
+            17,
+            "CORTE"
+          ],
+          [
+            32,
+            40,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- JOELHO CG.TRAZ. ESTRELA CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            14,
+            "CORTE"
+          ],
+          [
+            32,
+            39,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- MEIO ASA (TULIPA) PCTE. LEVO CX.18X1KG.",
+      {
+        "entities": [
+          [
+            8,
+            25,
+            "CORTE"
+          ],
+          [
+            37,
+            46,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- MOELA FGO. ALMOF. SEARA CX.18X1KG.",
+      {
+        "entities": [
+          [
+            8,
+            18,
+            "CORTE"
+          ],
+          [
+            32,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- SOBREP. S/O. PALMALI CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            15,
+            "CORTE"
+          ],
+          [
+            29,
+            36,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 CX- TOUCINHO MANTA C/P. GRAN CORTE CX.16KG.",
+      {
+        "entities": [
+          [
+            8,
+            22,
+            "CORTE"
+          ],
+          [
+            39,
+            46,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "002 PC- FILE PEITO (MEIO PEITO) LEVO CX.6X2KG.",
+      {
+        "entities": [
+          [
+            8,
+            18,
+            "CORTE"
+          ],
+          [
+            37,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "003 CX- ALCATRA SUINA S/O. PALMALI CX.10KG.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "CORTE"
+          ],
+          [
+            35,
+            42,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "003 CX- BACON PAPADA SULITA CX.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            13,
+            "CORTE"
+          ],
+          [
+            28,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "003 CX- BARRIGA CG. S/O.C/P. PALMALI CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            15,
+            "CORTE"
+          ],
+          [
+            37,
+            44,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "003 CX- CARRE SUINO PALMALI CX.18KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            28,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "004 CX- BISTECA SUINA ALEGRA CX.5KG.",
+      {
+        "entities": [
+          [
+            8,
+            21,
+            "CORTE"
+          ],
+          [
+            29,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "004 CX- COST. SUINA PONTA PALMALI SC.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            34,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "004 CX- PERNIL SUINO C/O.C/P.PORC. DALIA CX.20KG",
+      {
+        "entities": [
+          [
+            8,
+            20,
+            "CORTE"
+          ],
+          [
+            41,
+            48,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "004 CX- PES FGO. PCTE. LEVO CX.15KG.",
+      {
+        "entities": [
+          [
+            8,
+            16,
+            "CORTE"
+          ],
+          [
+            28,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "006 CX- TOUCINHO MANTA C/P. GRAN CORTE CX.16KG.",
+      {
+        "entities": [
+          [
+            8,
+            22,
+            "CORTE"
+          ],
+          [
+            39,
+            46,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "009 PC- FILE PEITO (MEIO PEITO) LEVO CX.6X2KG.",
+      {
+        "entities": [
+          [
+            8,
+            31,
+            "CORTE"
+          ],
+          [
+            37,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "010 CX- COXA S/COXA TEMP.IND. FRANGAO CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            38,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "010 CX- COXINHA ASA ENV. TEMP. FRANGAO CX.20KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            39,
+            46,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "060 CX- COST. SUINA GRILL PALMALI CX.10KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            34,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "067 CX- COST. SUINA GRILL PALMALI CX.10KG.",
+      {
+        "entities": [
+          [
+            8,
+            19,
+            "CORTE"
+          ],
+          [
+            34,
+            41,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "10 (CX) - PANCETA SUI C/ PELE TEMP GOURMET CONG",
+      {
+        "entities": [
+          [
+            10,
+            17,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1144) CORTES RESFRIADOS DE FRANGO- PEITO COM OSSO",
+      {
+        "entities": [
+          [
+            7,
+            35,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1217 - CORTES CONG. DE FRANGO - FILE DE PEITO IQF",
+      {
+        "entities": [
+          [
+            32,
+            45,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1217) CORTES CONG DE FRANGO - MEIO PEITO S/O S/P S/F IQF",
+      {
+        "entities": [
+          [
+            31,
+            41,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1218) CORTES CONG DE FRANGO - COXINHA DAS ASAS IQF",
+      {
+        "entities": [
+          [
+            31,
+            47,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1219) CORTES CONG DE FRANGO - FILEZINHO (SASSAMI) IQF",
+      {
+        "entities": [
+          [
+            31,
+            50,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(121)SAMBIQUIRA CONG. IN NAT. PCT. BELLO CX 18 KG",
+      {
+        "entities": [
+          [
+            5,
+            15,
+            "CORTE"
+          ],
+          [
+            41,
+            49,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1220) FRANGO A PASSARINHO - RECORTES CONG. DE FRANGO IQF",
+      {
+        "entities": [
+          [
+            7,
+            26,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "12 (CX) - COSTELA MINGA SUI TEMP CONG",
+      {
+        "entities": [
+          [
+            10,
+            23,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1/2 PEITO S/O S/P CG ENVELOP",
+      {
+        "entities": [
+          [
+            0,
+            3,
+            "QUANTIDADE"
+          ],
+          [
+            4,
+            9,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1301) FRANGO CONGELADO TEMPERADO SEM MIUDOS CX 20 KG",
+      {
+        "entities": [
+          [
+            38,
+            44,
+            "CORTE"
+          ],
+          [
+            45,
+            53,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1303) MIUDOS CONGELADOS DE FRANGO FIGADO",
+      {
+        "entities": [
+          [
+            28,
+            41,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1304) CORTES CONGELADOS DE FRANGO ASAS",
+      {
+        "entities": [
+          [
+            35,
+            39,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1445) PELE CONGELADA DE AVE",
+      {
+        "entities": [
+          [
+            7,
+            11,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1511 - CORTES TEMP CONG FRANGO FILE DE PEITO EM BIFES JALAPE",
+      {
+        "entities": [
+          [
+            31,
+            44,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1610 - CORTES CONG FRANGO COXA/SOBRECOXA S/O/ BELLO BLC20KG",
+      {
+        "entities": [
+          [
+            26,
+            40,
+            "CORTE"
+          ],
+          [
+            52,
+            59,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1615 - CORTES CONG. FRANGO FILE DE PEITO BDJ BELLO CX 9,6KG",
+      {
+        "entities": [
+          [
+            27,
+            40,
+            "CORTE"
+          ],
+          [
+            51,
+            59,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1616 - CORTE CONG. FRANGO SASSAMI BDJ BELLO CX 9,6KG",
+      {
+        "entities": [
+          [
+            19,
+            33,
+            "CORTE"
+          ],
+          [
+            44,
+            52,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1617 - CORTES CONG.FRANGO COXA/SOB S/OSSO BDJ BELLO CX 9,6KG",
+      {
+        "entities": [
+          [
+            26,
+            34,
+            "CORTE"
+          ],
+          [
+            52,
+            60,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1619 - CORTES CONG. FRANGO COXAS BDJ BELLO CX 9,6 KG",
+      {
+        "entities": [
+          [
+            27,
+            32,
+            "CORTE"
+          ],
+          [
+            43,
+            52,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1620 - CORTES CONG. FRANGO SOBRECOXAS BDJ BELLO CX 9,6 KG",
+      {
+        "entities": [
+          [
+            27,
+            37,
+            "CORTE"
+          ],
+          [
+            48,
+            57,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(1840) LOMBO SUINO TEMPERADO CONGELADO",
+      {
+        "entities": [
+          [
+            7,
+            18,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "1 FILET DE COSTELA INTEIRO RESF S/O BOV BB ANGUS",
+      {
+        "entities": [
+          [
+            2,
+            18,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "201 PC- FILE PEITO (MEIO PEITO) LEVO CX.6X2KG.",
+      {
+        "entities": [
+          [
+            8,
+            31,
+            "CORTE"
+          ],
+          [
+            37,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2020 - CORTES CONG. FRANGO PESCOCO SEM OSSO",
+      {
+        "entities": [
+          [
+            27,
+            34,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2042 - MIUDOS CONGELADOS DE FRANGO - FIGADO",
+      {
+        "entities": [
+          [
+            37,
+            43,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2043 - CORTES CONGELADOS DE FRANGO - COXAS E SOBRECOXAS S/O",
+      {
+        "entities": [
+          [
+            37,
+            55,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2044 - CORTES CONGELADOS DE FRANGO - FILE DE PEITO",
+      {
+        "entities": [
+          [
+            37,
+            50,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2045 - CORTES CONGELADOS DE FRANGO - FILEZINHO SASSAMI",
+      {
+        "entities": [
+          [
+            37,
+            54,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2046 - CORTES CONGELADOS DE FRANGO- MEIO DAS ASAS",
+      {
+        "entities": [
+          [
+            36,
+            49,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2047 - CORTES CONGELADOS DE FRANGO - SOBRECOXAS",
+      {
+        "entities": [
+          [
+            37,
+            47,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2049 - CORTES CONGELADOS DE FRANGO - COXINHAS DAS ASAS",
+      {
+        "entities": [
+          [
+            37,
+            54,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2058 - CORTES CONGELADOS DE FRANGO - COXAS E SOBRECOXAS",
+      {
+        "entities": [
+          [
+            37,
+            55,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "20 (CX) - BACON MANTA SUI C/ PELE RESF",
+      {
+        "entities": [
+          [
+            10,
+            21,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "21 (CX) - PALETA COZIDA E DEFUMADA COM PELE",
+      {
+        "entities": [
+          [
+            10,
+            16,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "21 (CX) - PANCETA SUI C/ PELE TEMP GOURMET CONG",
+      {
+        "entities": [
+          [
+            10,
+            17,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(228) ASA INTERFOLHADA CONGELADA CX 18 KGS OURO",
+      {
+        "entities": [
+          [
+            6,
+            22,
+            "CORTE"
+          ],
+          [
+            33,
+            42,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(229) COXA C/SOBRECOXA INDIVIDUAL CONGELADO CX 18 KGS BELLO",
+      {
+        "entities": [
+          [
+            6,
+            22,
+            "CORTE"
+          ],
+          [
+            44,
+            53,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "22 (CX) - PALETA SUINA COZIDA E DEFUMADA SEM PELE",
+      {
+        "entities": [
+          [
+            10,
+            22,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(22)MIUDOS CONG.DE FRANGO BDJ CORACAO CX 12 KG",
+      {
+        "entities": [
+          [
+            4,
+            10,
+            "CORTE"
+          ],
+          [
+            38,
+            46,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(232) FILE DE PEITO CONG. IN NAT. IND. BELLO CX 18 KG",
+      {
+        "entities": [
+          [
+            6,
+            19,
+            "CORTE"
+          ],
+          [
+            45,
+            53,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(24)MIUDOS CONG.DE FRANGO BDJ FIGADO CX 12 KG",
+      {
+        "entities": [
+          [
+            4,
+            10,
+            "CORTE"
+          ],
+          [
+            37,
+            45,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(258) MIUDOS CONGELADOS DE FRANGO MOELA",
+      {
+        "entities": [
+          [
+            34,
+            39,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(25)MIUDOS CONG.DE FRANGO BDJ MOELA CX 12 KG",
+      {
+        "entities": [
+          [
+            30,
+            35,
+            "CORTE"
+          ],
+          [
+            36,
+            44,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(260) FILE DE PEITO CONG. IN NAT. ENVELOPADO. BELLO CX 20 KG",
+      {
+        "entities": [
+          [
+            6,
+            19,
+            "CORTE"
+          ],
+          [
+            52,
+            60,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(29)COXINHA DA ASA CONG. IN NAT. PCT 1 KG - CX 20 KG BELLO",
+      {
+        "entities": [
+          [
+            4,
+            18,
+            "CORTE"
+          ],
+          [
+            33,
+            41,
+            "QUANTIDADE"
+          ],
+          [
+            44,
+            52,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2 (CX) - COSTELA MINGA SUI TEMP CONG",
+      {
+        "entities": [
+          [
+            9,
+            22,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "2 (CX) - FILE DA SOBREPALETA SUI TEMP GOURMET RESF",
+      {
+        "entities": [
+          [
+            9,
+            28,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(395) FRANGO FRATELLO - CX 20 KGS",
+      {
+        "entities": [
+          [
+            24,
+            33,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "3 (CX) - COSTELA MINGA SUI TEMP CONG",
+      {
+        "entities": [
+          [
+            9,
+            22,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "3 (CX) - PALETA COZIDA E DEFUMADA COM PELE",
+      {
+        "entities": [
+          [
+            9,
+            15,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "3     MIUDOS SALGADOS DE SUINO C/OSSO (PE) 400G",
+      {
+        "entities": [
+          [
+            43,
+            47,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(407) FRANGO FRATELLO - CX 22 KGS",
+      {
+        "entities": [
+          [
+            24,
+            33,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(40)COXINHA DA ASA CONG. IN NAT. INTERF. CX 18 KG BELLO",
+      {
+        "entities": [
+          [
+            4,
+            18,
+            "CORTE"
+          ],
+          [
+            41,
+            49,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "41876 - CORTES CONG.FRGO FILEZINHO SASSAMI MI BL 20KG",
+      {
+        "entities": [
+          [
+            25,
+            42,
+            "CORTE"
+          ],
+          [
+            46,
+            53,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(43)LEG QUARTER INTERF. CONG. M.I 18 KG BELLO",
+      {
+        "entities": [
+          [
+            4,
+            15,
+            "CORTE"
+          ],
+          [
+            34,
+            39,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "44 (CX) - PALETA COZIDA E DEFUMADA COM PELE",
+      {
+        "entities": [
+          [
+            10,
+            16,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(466)COXA E SOBRECOXA RESF. IN NAT. BELLO CX 18 KG",
+      {
+        "entities": [
+          [
+            5,
+            21,
+            "CORTE"
+          ],
+          [
+            42,
+            50,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(491)SOBRECOXA COM OSSO RESF. TEMPERADO PCT 6 KG",
+      {
+        "entities": [
+          [
+            5,
+            23,
+            "CORTE"
+          ],
+          [
+            40,
+            48,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(492) COXINHA DA ASA RESF. TEMP. PCT 6 KG CX 18 KG",
+      {
+        "entities": [
+          [
+            6,
+            20,
+            "CORTE"
+          ],
+          [
+            33,
+            41,
+            "QUANTIDADE"
+          ],
+          [
+            42,
+            50,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(493) FRANGO A PASSARINHO RESF.TEMP.PCT 6KG CX 18KG",
+      {
+        "entities": [
+          [
+            6,
+            25,
+            "CORTE"
+          ],
+          [
+            40,
+            51,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(494) FILEZINHO FRANGO (SASSAMI) RESF.TEMP.PCT 6KG CX 18KG",
+      {
+        "entities": [
+          [
+            6,
+            32,
+            "CORTE"
+          ],
+          [
+            47,
+            58,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(499) DORSO CONG.PCT BELLO CX 12 KG",
+      {
+        "entities": [
+          [
+            27,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "4 (CX) - CONTRA-FILE SUI TEMP ORIGENS AMERICANO RESF",
+      {
+        "entities": [
+          [
+            9,
+            20,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "5 (CX) - BACON S/PELE FATIADO - FOOD",
+      {
+        "entities": [
+          [
+            9,
+            14,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "5 (CX) - COSTELA MINGA SUI TEMP CONG",
+      {
+        "entities": [
+          [
+            9,
+            22,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "5 (CX) - COSTELA SUI COZIDA E DEFUMADA RESF",
+      {
+        "entities": [
+          [
+            9,
+            20,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "5 (CX) - PANCETA SUI C/ PELE TEMP GOURMET CONG",
+      {
+        "entities": [
+          [
+            9,
+            20,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(608) CORTES RESFRIADOS FRAN.MEIO PEITO S/O S/P S/F CX 18KG",
+      {
+        "entities": [
+          [
+            24,
+            39,
+            "CORTE"
+          ],
+          [
+            52,
+            59,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(618) BACON FATIADO PCT 16X180GR",
+      {
+        "entities": [
+          [
+            6,
+            11,
+            "CORTE"
+          ],
+          [
+            24,
+            32,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(621)CORTES CONGELADOS DE FRANGO COXAS E SOBRECOXAS SEM OSSO",
+      {
+        "entities": [
+          [
+            33,
+            60,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(63) CORTES CONGELADOS DE FRANGO COXAS E SOBRECOXAS SEM OSSO",
+      {
+        "entities": [
+          [
+            33,
+            60,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "66 (CX) - PALETA COZIDA E DEFUMADA COM PELE",
+      {
+        "entities": [
+          [
+            10,
+            16,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(772) CORTES CONG.FRANGO - PES 2X7,5KG - CX 15 KG OURO",
+      {
+        "entities": [
+          [
+            31,
+            38,
+            "QUANTIDADE"
+          ],
+          [
+            41,
+            49,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "7 (CX) - PALETA SUINA COZIDA E DEFUMADA SEM PELE",
+      {
+        "entities": [
+          [
+            9,
+            21,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(81)FILE DE PEITO CONG. IN NAT. INTERF. BELLO CX 18 KG",
+      {
+        "entities": [
+          [
+            4,
+            17,
+            "CORTE"
+          ],
+          [
+            46,
+            54,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "8 (CX) - PALETA SUINA COZIDA E DEFUMADA SEM PELE",
+      {
+        "entities": [
+          [
+            9,
+            21,
+            "CORTE"
+          ]
+        ]
+      }
+    ],
+    [
+      "(90)FILEZINHO DE FRANGO (SASSAMI) CONG PCT 1 KG CX 20 KG",
+      {
+        "entities": [
+          [
+            4,
+            33,
+            "CORTE"
+          ],
+          [
+            39,
+            47,
+            "QUANTIDADE"
+          ],
+          [
+            48,
+            56,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - 1.0000",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            7,
+            13,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - 10.0000",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            7,
+            14,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM (10 CX)",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            5,
+            12,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM (12 CX)",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            6,
+            11,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - 15.0000",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            7,
+            14,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - 30.0000",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            7,
+            14,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM (30 CX)",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            5,
+            12,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - 36.0000",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            7,
+            14,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM BOVINO RESFRIADO (90VL) FRIBOI",
+      {
+        "entities": [
+          [
+            0,
+            11,
+            "CORTE"
+          ],
+          [
+            23,
+            27,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM BOVINO RESFRIADO (90VL) HALAK",
+      {
+        "entities": [
+          [
+            0,
+            11,
+            "CORTE"
+          ],
+          [
+            23,
+            27,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM BOVINO RESFRIADO (95VL)",
+      {
+        "entities": [
+          [
+            0,
+            11,
+            "CORTE"
+          ],
+          [
+            23,
+            27,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM CAPA FATIADO 0,8/1,4kg 97VL RF VC ME GJ CHILE V",
+      {
+        "entities": [
+          [
+            0,
+            9,
+            "CORTE"
+          ],
+          [
+            18,
+            27,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM - CORTADO AO MEIO CONGELADO - QTD: 739",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            35,
+            43,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM (CORTADO AO MEIO) CONG - QTD: 206",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            30,
+            38,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM (CORTADO AO MEIO) CONG - QTD: 209",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            30,
+            38,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ],
+    [
+      "ACEM C/PESCOCO C/COSTELINHA 1/1,3kg RF VC MI MONTANA",
+      {
+        "entities": [
+          [
+            0,
+            4,
+            "CORTE"
+          ],
+          [
+            28,
+            35,
+            "QUANTIDADE"
+          ]
+        ]
+      }
+    ]
+  ]
+}
